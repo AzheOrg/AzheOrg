@@ -6,4 +6,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzheOrg&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzheOrg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadLongTom&layout=compact)
